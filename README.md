@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Wenner
+#  Olá, eu sou Wenner
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Focado em desenvolvimento backend com Java  
