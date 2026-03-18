@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Olá, eu sou Wenner
 
-<!--
-**wenn3r/wenn3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Focado em desenvolvimento backend com Java  
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
+- Java
+- Spring Boot
+- REST APIs
+- Git e GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projeto em destaque
+🔗 MoneyQuest API  
+https://github.com/wenn3r/moneyquest-api
+
+## 📫 Contato
+- LinkedIn: https://www.linkedin.com/in/wenner-aires-4740133b7
